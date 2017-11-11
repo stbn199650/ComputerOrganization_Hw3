@@ -1,1 +1,2 @@
-# ComputerOrganization_Hw2
+## ComputerOrganization_Hw2
+Pipelined CPU
